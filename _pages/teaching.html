@@ -5,8 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+I had the opportunity to help my professors as a teaching assistant for the following courses:
+
+{% for teaching in site.teaching %}
+    <h2>{{ teaching.title }}</h2>
+    <table border="0">
+        <tr>
+            <td align="left">{{ teaching.role}}</td>
+            <td align="right">{{ teaching.date }}</td>
+        </tr>
+    </table>
+    {{teaching.content}}
 {% endfor %}

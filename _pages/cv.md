@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> Full CV can be downloaded [here](/files/AvaCV.pdf).
+To download my latest CV, click [here](/files/AvaCV.pdf).
 
 <!-- Education
 ======
