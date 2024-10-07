@@ -21,7 +21,7 @@ repository               : "https://github.com/avamirm/avamirm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "images/profile.png"
   name             : "Ava Mirmohammad Mehdi"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering student at the University of Tehran"
