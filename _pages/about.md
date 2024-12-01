@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-Hello, I’m Ava, a last year Computer Engineering B.Sc. student at ECE Department at the University of Tehran. My interests lie in software verification, programming languages, and distributed systems. I am currently working on my bachelor's thesis on the topic of verifying privacy bugs on social media, supervised by <a href="https://www.fatemehghassemi.ir/">Prof. Fatemeh Ghassemi</a>.
+Hello, I’m Ava, a last year Computer Engineering B.Sc. student at ECE Department at the University of Tehran. My interests lie in Formal Methods, software verification and programming languages. I am currently working on my bachelor's thesis on the topic of modeling and analyzing scheduling algorithms with timed automata, supervised by <a href="https://www.fatemehghassemi.ir/">Prof. Fatemeh Ghassemi</a>.
 </div>
 <br>
 
